@@ -1,0 +1,10 @@
+.eventcard{
+    width:70% !important;
+}
+
+
+@media screen and (max-width:1500px){
+    .eventcard{
+         width:95% !important;
+    }
+}
